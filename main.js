@@ -12,7 +12,7 @@ bot.on(message('text'), async(ctx) => {
     ctx.replyWithMarkdownV2(
         'Hey there',
         Markup.inlineKeyboard([
-            [Markup.button.callback('Бронировать стол', 'Pepsi')],
+            // [Markup.button.callback('Бронировать стол', 'Pepsi')],
             [Markup.button.webApp('Меню',"https://exampletgapp.ru/")]
         ])
     );

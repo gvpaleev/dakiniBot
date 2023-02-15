@@ -1,0 +1,55 @@
+{
+    "КОФЕ":[{
+        "name":"ESPRESSO",
+        "comment":"",
+        "value":"30 мл",
+        "price":100
+    },{
+        "name":"AMERICANO",
+        "comment":"",
+        "value":"150 мл",
+        "price":100
+    },{
+        "name":"CAPPUCCINO",
+        "comment":"",
+        "value":"200 мл",
+        "price":180
+    },{
+        "name":"LATTE",
+        "comment":"",
+        "value":"300 мл",
+        "price":180
+    }],
+    "БЕЗАЛКОГОЛЬНЫЕ_НАПИТКИ":[{
+        "name":"COCA-COLA",
+        "comment":"",
+        "value":"30 мл",
+        "price":100
+    },{
+        "name":"MOUNTAIN DEW",
+        "comment":"",
+        "value":"150 мл",
+        "price":100
+    },{
+        "name":"ADRENALINE RUSH",
+        "comment":"",
+        "value":["200 мл","300 мл"],
+        "price":[100,200]
+    },{
+        "name":"SPRITE",
+        "comment":"",
+        "value":"150 мл",
+        "price":100
+    },{
+        "name":"BORJOMI",
+        "comment":"",
+        "value":"200 мл",
+        "price":180
+    },{
+        "name":"MEDOVARUS",
+        "comment":"«БИОЛИМОНАД ИМБИРНЫЙ» «БИОЛИМОНАД МЕД И ТРАВЫ» «БИОЛИМОНАД ФРУКТОВЫЙ МИКС»",
+        "value":"300 мл",
+        "price":180
+    }]
+    
+}
